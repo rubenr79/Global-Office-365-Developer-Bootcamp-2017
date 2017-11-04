@@ -21,16 +21,16 @@ Una vez introducido nuestro usuario, se nos muestra una ventana en la que debemo
 ### Consultas de ejemplo
 Desde esta zona podemos ver consultas de ejemplo, que nos pueden servir como guía para hacer nuestras propias consultas
 
-![Screenshot of the previous step](Images/03.png)
+![Screenshot of the previous step](Images/03.PNG)
 
 Pulsando sobre "show more samples" podremos seleccionar la categoría de las consultas
 
-![Screenshot of the previous step](Images/04.png)
+![Screenshot of the previous step](Images/04.PNG)
 
 ### Historial de consultas
 En esta zona veremos todas las consultas que hayamos ejecutado. Si pulsamos sobre cualquiera de ella volveremos a ejecutarla.
 
-![Screenshot of the previous step](Images/05.png)
+![Screenshot of the previous step](Images/05.PNG)
 
 ### Consulta
 En esta zona introduciremos la consulta que deseamos probar.
