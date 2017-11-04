@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampConsoleDemo", "BootcampConsoleDemo\BootcampConsoleDemo.csproj", "{FD358BBB-8E84-4BD5-853F-65E98011E418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD358BBB-8E84-4BD5-853F-65E98011E418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD358BBB-8E84-4BD5-853F-65E98011E418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD358BBB-8E84-4BD5-853F-65E98011E418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD358BBB-8E84-4BD5-853F-65E98011E418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBED6754-965C-4533-9F69-98B1F2AE67A1}
+	EndGlobalSection
+EndGlobal
